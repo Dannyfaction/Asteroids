@@ -6,7 +6,7 @@ The assignment was to make an Asteroids-like game. We gave our own twist to it a
 We had not learned to code efficiently or to code object orientated, so the code may look messy and way too many functions in 1 file
 
 Honorable Scripts
-* [Multiply Script](src/KeerSom.as)
-* [Main code](src/Main.as)
-* [MainScreen](src/MainScreen.as)
-* [Playermovement](src/Plane.as)
+* [Multiply Script](Asteroids/src/KeerSom.as)
+* [Main code](Asteroids/src/Main.as)
+* [MainScreen](Asteroids/src/MainScreen.as)
+* [Playermovement](Asteroids/src/Plane.as)
